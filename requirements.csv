@@ -1,9 +1,9 @@
-Conceived,企画されている,着想
+Conceived,企画されている
 □Stakeholders agree system is to be produced,スタークホルダーがシステムの開発に合意している
 □Users identified,ユーザーが特定されている
 □Funding stakeholders identified,資金を提供するステークホルダーが特定されている
 □Opportunity clear,機会が明確である
-Bounded,明確化されている,境界
+Bounded,明確化されている
 □Development stakeholders identified,開発のステークホルダーが特定されている
 □System purpose agreed,システムの目的が合意されている
 □System success clear,システムの成功が明確である
@@ -13,7 +13,7 @@ Bounded,明確化されている,境界
 □Prioritization scheme clear,優先順位付けの仕組みが明確である
 □Constraints identified & considered,制約が特定および検討されている
 □Assumptions clear,想定が明確である
-Coherent,論理的である,明快
+Coherent,論理的である
 □Requirements shared,要求が共有されている
 □Requirements' origin clear,要求の源が明確である
 □Rationale clear,論理的根拠が明確である
@@ -23,7 +23,7 @@ Coherent,論理的である,明快
 □Priorities clear,優先順位が明確である
 □Impact understood,影響が理解されている
 □Team knows & agrees on what to deliver,提供するものをチームが理解・合意している
-Acceptable,受け入れ可能である,受容
+Acceptable,受け入れ可能である
 □Acceptable solution described,受け入れ可能なソリューションが記述されている
 □Change under control,変更が管理されている
 □Value to be realized clear,実現される価値が明確である
@@ -34,7 +34,7 @@ Addressed,対応済みである,対応済み
 □Requirements and system match,要求とシステムが合致している
 □Value realized clear,実現された価値が明確である
 □System worth making operational,運用に値するシステムである
-Fulfilled,満たされている,満足
+Fulfilled,満たされている
 □Stakeholders accept requirements,ステークホルダーが要求を受け入れている
 □No hindering requirements,邪魔になる要求がない
 □Requirements fully satisfied,要求が完全に満たされている
