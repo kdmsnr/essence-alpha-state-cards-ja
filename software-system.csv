@@ -1,0 +1,37 @@
+Architecture Selected,アーキテクチャが選択済みである
+□Architecture selection criteria agreed,アーキテクチャの選択基準に合意した
+□HW platforms identified,ハードウェアプラットフォームを特定した
+□Technologies selected,テクノロジーを選択した
+□System boundary known,システムの境界がわかっている
+□Decisions on system organization made,システム構成を決定した
+"□Buy, build, reuse decisions made","購入・構築・再利用を決定した"
+□Key technical risks agreed to,重要な技術的リスクに合意した
+Demonstrable,デモ可能である
+□Key architectural characteristics demonstrated,重要なアーキテクチャの特性をデモした
+□System exercised & performance measured,システムを実行してパフォーマンスを測定した
+□Critical HW configurations demonstrated,重要なハードウェア構成をデモした
+□Critical interfaces demonstrated,重要なインターフェイスをデモした
+□Integration with environment demonstrated,環境との統合をデモした
+□Architecture accepted as fit-for purpose,アーキテクチャが目的に合っていると受け入れられた
+Usable,使用可能である
+□System can be operated,システムは運用可能である
+□System functionality tested,システムの機能はテスト済みである
+□System performance acceptable,システムのパフォーマンスは受け入れ可能である
+□Defect levels acceptable,欠陥レベルは受け入れ可能である
+□System fully documented,システムが完全に文書化されている
+□Release content known,リリース内容が周知されている
+□Added value clear,追加された価値が明確である
+Ready,準備完了である
+□User documentation available
+□System accepted as fit-for-purpose
+□Stakeholders want the system
+□Operational support in place
+Operational,運用可能である
+□System available for use
+□System live
+□Agreed service levels supported
+Retired,廃止済みである
+□Replaced or discontinued
+□No longer supported
+□No authorized users
+□Updates stopped

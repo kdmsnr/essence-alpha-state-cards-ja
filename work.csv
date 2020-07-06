@@ -1,0 +1,44 @@
+Initiated,開始された
+□Required result clear,求められる結果が明確である
+□Constraints clear,制約が明確である
+□Funding stakeholders known,予算のステークホルダーがわかっている
+□Initiator identified,起案者が特定された
+□Accepting stakeholders known,受け入れするステークホルダーがわかっている
+□Source of funding clear,予算の源が明確である
+□Priority clear,優先順位が明確である
+Prepared,準備できた
+□Commitment made,コミットされている
+□Cost and effort estimated,コストと労力が見積もられている
+□Resource availability understood,利用可能なリソースがわかっている
+□Risk exposure understood,リスクの影響度が理解されている
+□Acceptance criteria established,受け入れ基準が設定されている
+□Sufficiently broken down to start,着手できるほど十分に分割されている
+□Tasks identified and prioritized,タスクが特定されて優先順位がつけられている
+□Credible plan in place,信頼できる計画がある
+□Funding in place,予算が用意されている
+□At least one team member ready,少なくとも1人のチームメンバーが確保できている
+□Integration points defined,統合地点が定義されている
+Started,着手した
+□Development started,開発が開始された
+□Progress monitored,進捗を追跡している
+□Definition of done in place,完成の定義が設定されている
+□Tasks being progressed,タスクが進行中である
+Under Control,制御中
+□Tasks being completed
+□Unplanned work under control
+□Risks under control
+□Estimates revised to reflect performance,パフォーマンスを反映して再見積もりした
+□Progress measured,進捗が計測されている
+□Re-work under control
+□Commitments consistently met
+Concluded,完了した
+□Only admin tasks left
+□Results achieved
+□Resulting system accepted
+Closed,終了した
+□Lessons learned
+□Metrics available
+□Everyth ing archived
+□Budget reconciled & closed
+□Team released
+□No outstanding, uncompleted tasks
