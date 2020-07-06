@@ -2,6 +2,8 @@
 
 ![](cards.svg)
 
+[SVG](cards.svg) / [PNG](cards.png)
+
 ## References
 
 * [『モダン・ソフトウェアエンジニアリング』（翔泳社）](https://www.shoeisha.co.jp/book/detail/9784798165226)
