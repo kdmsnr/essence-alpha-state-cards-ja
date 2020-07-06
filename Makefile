@@ -1,5 +1,5 @@
 build:
 	ruby uml.rb > cards.uml
-	plantuml cards.uml
-	open cards.png
+	plantuml -tpng cards.uml
+	plantuml -tsvg cards.uml
 
