@@ -23,22 +23,22 @@ Started,着手した
 □Progress monitored,進捗を追跡している
 □Definition of done in place,完成の定義が設定されている
 □Tasks being progressed,タスクが進行中である
-Under Control,制御中
-□Tasks being completed
-□Unplanned work under control
-□Risks under control
+Under Control,制御中である
+□Tasks being completed,タスクが完了した
+□Unplanned work under control,計画外の作業が制御されている
+□Risks under control,リスクが制御されている
 □Estimates revised to reflect performance,パフォーマンスを反映して再見積もりした
 □Progress measured,進捗が計測されている
-□Re-work under control
-□Commitments consistently met
+□Re-work under control,再作業が制御されている
+□Commitments consistently met,コミットメントが一貫して満たされている
 Concluded,完了した
-□Only admin tasks left
-□Results achieved
-□Resulting system accepted
+□Only admin tasks left,管理者の作業のみが残っている
+□Results achieved,結果が達成された
+□Resulting system accepted,最終的なシステムが受け入れられた
 Closed,終了した
-□Lessons learned
-□Metrics available
-□Everyth ing archived
-□Budget reconciled & closed
-□Team released
-□No outstanding, uncompleted tasks
+□Lessons learned,学びがあった
+□Metrics available,指標が利用可能である
+□Everything archived,すべてが達成された
+□Budget reconciled & closed,予算を調整して終了した
+□Team released,チームが解放された
+□No outstanding, uncompleted tasks,積み残しや未完了のタスクがない

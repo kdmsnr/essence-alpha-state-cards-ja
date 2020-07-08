@@ -22,16 +22,16 @@ Usable,使用可能である
 □Release content known,リリース内容が周知されている
 □Added value clear,追加された価値が明確である
 Ready,準備完了である
-□User documentation available
-□System accepted as fit-for-purpose
-□Stakeholders want the system
-□Operational support in place
+□User documentation available,ユーザー文書が利用可能である
+□System accepted as fit-for-purpose,システムが目的に合致している
+□Stakeholders want the system,ステークホルダーが必要としている
+□Operational support in place,運用サポートの準備できている
 Operational,運用可能である
-□System available for use
-□System live
-□Agreed service levels supported
+□System available for use,システムが稼働可能である
+□System live,システムが稼働している
+□Agreed service levels supported,合意されたサービスレベルをサポートしている
 Retired,廃止済みである
-□Replaced or discontinued
-□No longer supported
-□No authorized users
-□Updates stopped
+□Replaced or discontinued,リプレースまたは破棄された
+□No longer supported,サポートが終了した
+□No authorized users,権限のあるユーザーがいない
+□Updates stopped,更新を停止した
