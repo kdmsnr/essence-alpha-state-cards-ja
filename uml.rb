@@ -29,14 +29,15 @@ essence.keys.each do |csv|
     state_num = 0
     while line = f.gets
       k, v = CSV.parse(line)[0]
-      if !k.nil? and !v.nil?
-        if k.include? "□"
-          puts "  -#{v}"
-        else
-          state_num += 1
-          puts "}" if f.lineno != 1
-          puts "#{header}(#{state_num})：#{v} #{icon} {"
-        end
+      next if k.nil? or v.nil?
+      if k.include? "□"
+        puts "  -#{v}"
+      else
+        state_num += 1
+        puts "}" if f.lineno != 1
+        puts "#{header}(#{state_num}) #{icon} {"
+        puts "#{v}"
+        puts "--"
       end
     end
     puts "}"
