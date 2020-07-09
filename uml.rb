@@ -5,19 +5,19 @@ essence = {
   'stakeholders.csv' => 'class ステークホルダー',
   'requirements.csv' => 'class 要求',
   'software-system.csv' => 'class ソフトウェアシステム',
-  'work.csv' => 'enum 作業',
-  'team.csv' => 'enum チーム',
-  'way-of-working.csv' => 'enum 作業方法'
+  'work.csv' => 'class 作業',
+  'team.csv' => 'class チーム',
+  'way-of-working.csv' => 'class 作業方法'
 }
 
 icons = {
-  'opportunity.csv' => '',
-  'stakeholders.csv' => '',
-  'requirements.csv' => '<< (S,orchid) >>',
-  'software-system.csv' => '<< (S,orchid) >>',
-  'team.csv' => '',
-  'work.csv' => '',
-  'way-of-working.csv' => ''
+  'opportunity.csv' => '<< (C,lightgreen) >>',
+  'stakeholders.csv' => '<< (C,lightgreen) >>',
+  'requirements.csv' => '<< (S,yellow) >>',
+  'software-system.csv' => '<< (S,yellow) >>',
+  'team.csv' => '<< (E,lightblue) >>',
+  'work.csv' => '<< (E,lightblue) >>',
+  'way-of-working.csv' => '<< (E,lightblue) >>'
 }
 
 puts "@startuml"
